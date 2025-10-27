@@ -24,7 +24,7 @@ Press F12 or Ctrl+Shift+I (Windows) / Cmd+Option+I (Mac)
 - Paste and execute the code
 
 ## javascript
-// Copy the entire code from the gs-spin-control.html file
+// Copy the entire code from the gs-xss-spin-control.js file
 // Paste it in the console and press Enter
 
 - A control panel will appear in the bottom-left corner
@@ -34,7 +34,7 @@ Press F12 or Ctrl+Shift+I (Windows) / Cmd+Option+I (Mac)
 
 ### Method 2: HTML File Method
 - Save the complete HTML code
-- Copy the entire HTML from spin-control.html
+- Copy the entire HTML from gs-spin-control.html
 - Save it as goldshell_spin_control.html on your computer
 - Open the HTML file
 - Double-click the saved file to open it in your browser
